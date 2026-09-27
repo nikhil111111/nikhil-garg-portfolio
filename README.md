@@ -1,12 +1,11 @@
 # Nikhil Garg — Portfolio
 
-Personal portfolio for Nikhil Garg, a full-stack developer and backend engineer. Built with Next.js, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion.
+Personal portfolio website showcasing my skills, experience, projects, and work as a Backend Engineer.
 
-## Develop
+Built with Next.js, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion.
+
+## Run Locally
 
 ```bash
 npm install
 npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
